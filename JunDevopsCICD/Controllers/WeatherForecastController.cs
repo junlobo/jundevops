@@ -13,7 +13,7 @@ namespace JunDevopsCICD.Controllers
     {
         private static readonly string[] Summaries = new[]
         {
-            "Freezing33", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
+            "Freezing44", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
         };
 
         private readonly ILogger<WeatherForecastController> _logger;
